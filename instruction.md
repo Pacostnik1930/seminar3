@@ -6,4 +6,9 @@
 
     git config --global user.email "pgoyhman@mail.ru
     git config --global user.name "Гойхман Петр"
-    
+
+## Создание репозитория
+
+Чтобы инициализировать новый репозиторий нужно ввести команду;
+
+git init
