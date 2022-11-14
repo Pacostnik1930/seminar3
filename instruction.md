@@ -73,3 +73,6 @@ checkout master
 
 git diff
 
+## Ветвление
+
+Ветвление в git нужны для...
