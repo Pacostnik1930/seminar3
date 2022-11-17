@@ -101,3 +101,5 @@ git checkout <newbranch>
 git merge <newbranch>
 
 где <newbranch> это название новой ветки
+
+### Удаление ветки
