@@ -104,4 +104,4 @@ git merge <newbranch>
 
 Чтобы удалить ненужную ветку,нужно ввести команду:
 
-git branch -d <branch_name>
+git branch -d <branch_name> 
