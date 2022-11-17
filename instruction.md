@@ -107,3 +107,5 @@ git merge <newbranch>
 ### Удаление веток
 
 git branch -d <branch_name>
+    
+    Удаленные репозитории ...
