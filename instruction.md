@@ -93,3 +93,5 @@ git branch <newbranch>
 git checkout <newbranch>
 
 где <newbranch> это название новой ветки 
+  
+### Слияние веток
