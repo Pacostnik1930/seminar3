@@ -85,3 +85,5 @@ git diff
 git branch <newbranch>
 
 где <newbranch> это название новой ветки
+
+### Переход между веток
