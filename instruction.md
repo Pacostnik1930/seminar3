@@ -101,3 +101,7 @@ git checkout <newbranch>
 git merge <newbranch>
 
 где <newbranch> это название новой ветки
+
+Чтобы удалить ненужную ветку,нужно ввести команду:
+
+git branch -d <branch_name>
