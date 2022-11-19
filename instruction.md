@@ -109,3 +109,5 @@ git merge <newbranch>
 git branch -d <branch_name>
 
 ## Удаленные репозитории
+    
+    Удаленные репозитории ...
